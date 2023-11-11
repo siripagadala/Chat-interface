@@ -1,7 +1,8 @@
 # Chat-interface
 Development of Chat Interface with Amazon Lex and Shopify API Integration
 
-# Objective : Code a Gradio-based chat interface that connects to Amazon Lex and the Shopify API, handled by AWS Lambda functions, to enable a conversational AI that interacts with e-commerce data.
+# Objective:
+Code a Gradio-based chat interface that connects to Amazon Lex and the Shopify API, handled by AWS Lambda functions, to enable a conversational AI that interacts with e-commerce data.
 
 # Tasks :
 - Use Gradio to create a chat interface that users can interact with through text input.
